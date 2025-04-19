@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1741539809 source:/home/noor-masrur/Templates/reg/crud.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"crud.h"
+
+1741539596 /home/noor-masrur/Templates/reg/crud.h
+
+1741453284 source:/home/noor-masrur/Templates/reg/main.c
+	<stdio.h>
+	"crud.h"
+
