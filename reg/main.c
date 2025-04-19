@@ -8,7 +8,7 @@ int main() {
     int choice, id;
     Record record;
     do {
-        printf("\n1. Create Record\n2. Read Records\n3. Update Record\n4. Delete Record\n5. Exit\nChoose an option: ");
+        printf("\n1. Create Record\n2. Read Records\n3. Update Record\n4. Delete Record\n5. Exit\ an option: ");
         scanf("%d", &choice);
         switch (choice) {
             case 1:
